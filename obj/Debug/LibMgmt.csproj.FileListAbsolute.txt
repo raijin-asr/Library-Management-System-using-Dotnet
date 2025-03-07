@@ -1,0 +1,26 @@
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.AddBook.resources
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.AdminForm.resources
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.Form1.resources
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.Properties.Resources.resources
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.csproj.GenerateResource.cache
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe.config
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\bin\Debug\LibMgmt.pdb
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.exe
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.pdb
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.csprojAssemblyReference.cache
+F:\Programming teach\ISMT\teachapp\LibMgmt\LibMgmt\obj\Debug\LibMgmt.FirstPage.resources
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe.config
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\bin\Debug\LibMgmt.exe
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\bin\Debug\LibMgmt.pdb
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.csproj.AssemblyReference.cache
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.csproj.SuggestedBindingRedirects.cache
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.AddBook.resources
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.AdminForm.resources
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.FirstPage.resources
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.Form1.resources
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.Properties.Resources.resources
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.csproj.GenerateResource.cache
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.csproj.CoreCompileInputs.cache
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.exe
+C:\Users\krcha\OneDrive\Desktop\BIT\LibMgmt\LibMgmt\obj\Debug\LibMgmt.pdb
